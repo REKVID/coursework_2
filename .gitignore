@@ -1,4 +1,5 @@
 /target/
+/inf_docs/
 
 /.idea/
 *.iml
